@@ -1,5 +1,7 @@
 # ZKP gRPC client/server for authentication
 
+For Mac Terminal compatible check [here](./README_mac.md).
+
 ## Local Run
 
 You will need to install the rust on your machine and also the `protobuf-compiler`, for Linux:
